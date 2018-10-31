@@ -1,0 +1,11 @@
+C:\Users\jschlickmanndamascen\Desktop\C# and .NET\Code\Chapter01\WelcomeDotNetUsingVSCODE\bin\Debug\netcoreapp2.1\WelcomeDotNetUsingVSCODE.deps.json
+C:\Users\jschlickmanndamascen\Desktop\C# and .NET\Code\Chapter01\WelcomeDotNetUsingVSCODE\bin\Debug\netcoreapp2.1\WelcomeDotNetUsingVSCODE.runtimeconfig.json
+C:\Users\jschlickmanndamascen\Desktop\C# and .NET\Code\Chapter01\WelcomeDotNetUsingVSCODE\bin\Debug\netcoreapp2.1\WelcomeDotNetUsingVSCODE.runtimeconfig.dev.json
+C:\Users\jschlickmanndamascen\Desktop\C# and .NET\Code\Chapter01\WelcomeDotNetUsingVSCODE\bin\Debug\netcoreapp2.1\WelcomeDotNetUsingVSCODE.dll
+C:\Users\jschlickmanndamascen\Desktop\C# and .NET\Code\Chapter01\WelcomeDotNetUsingVSCODE\bin\Debug\netcoreapp2.1\WelcomeDotNetUsingVSCODE.pdb
+C:\Users\jschlickmanndamascen\Desktop\C# and .NET\Code\Chapter01\WelcomeDotNetUsingVSCODE\obj\Debug\netcoreapp2.1\WelcomeDotNetUsingVSCODE.csprojAssemblyReference.cache
+C:\Users\jschlickmanndamascen\Desktop\C# and .NET\Code\Chapter01\WelcomeDotNetUsingVSCODE\obj\Debug\netcoreapp2.1\WelcomeDotNetUsingVSCODE.csproj.CoreCompileInputs.cache
+C:\Users\jschlickmanndamascen\Desktop\C# and .NET\Code\Chapter01\WelcomeDotNetUsingVSCODE\obj\Debug\netcoreapp2.1\WelcomeDotNetUsingVSCODE.AssemblyInfoInputs.cache
+C:\Users\jschlickmanndamascen\Desktop\C# and .NET\Code\Chapter01\WelcomeDotNetUsingVSCODE\obj\Debug\netcoreapp2.1\WelcomeDotNetUsingVSCODE.AssemblyInfo.cs
+C:\Users\jschlickmanndamascen\Desktop\C# and .NET\Code\Chapter01\WelcomeDotNetUsingVSCODE\obj\Debug\netcoreapp2.1\WelcomeDotNetUsingVSCODE.dll
+C:\Users\jschlickmanndamascen\Desktop\C# and .NET\Code\Chapter01\WelcomeDotNetUsingVSCODE\obj\Debug\netcoreapp2.1\WelcomeDotNetUsingVSCODE.pdb

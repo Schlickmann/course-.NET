@@ -1,0 +1,11 @@
+C:\Users\jschlickmanndamascen\Desktop\C# and .NET\Code\Chapter01\WelcomeDotNetCore\bin\Debug\netcoreapp2.1\WelcomeDotNetCore.deps.json
+C:\Users\jschlickmanndamascen\Desktop\C# and .NET\Code\Chapter01\WelcomeDotNetCore\bin\Debug\netcoreapp2.1\WelcomeDotNetCore.runtimeconfig.json
+C:\Users\jschlickmanndamascen\Desktop\C# and .NET\Code\Chapter01\WelcomeDotNetCore\bin\Debug\netcoreapp2.1\WelcomeDotNetCore.runtimeconfig.dev.json
+C:\Users\jschlickmanndamascen\Desktop\C# and .NET\Code\Chapter01\WelcomeDotNetCore\bin\Debug\netcoreapp2.1\WelcomeDotNetCore.dll
+C:\Users\jschlickmanndamascen\Desktop\C# and .NET\Code\Chapter01\WelcomeDotNetCore\bin\Debug\netcoreapp2.1\WelcomeDotNetCore.pdb
+C:\Users\jschlickmanndamascen\Desktop\C# and .NET\Code\Chapter01\WelcomeDotNetCore\obj\Debug\netcoreapp2.1\WelcomeDotNetCore.csprojAssemblyReference.cache
+C:\Users\jschlickmanndamascen\Desktop\C# and .NET\Code\Chapter01\WelcomeDotNetCore\obj\Debug\netcoreapp2.1\WelcomeDotNetCore.csproj.CoreCompileInputs.cache
+C:\Users\jschlickmanndamascen\Desktop\C# and .NET\Code\Chapter01\WelcomeDotNetCore\obj\Debug\netcoreapp2.1\WelcomeDotNetCore.AssemblyInfoInputs.cache
+C:\Users\jschlickmanndamascen\Desktop\C# and .NET\Code\Chapter01\WelcomeDotNetCore\obj\Debug\netcoreapp2.1\WelcomeDotNetCore.AssemblyInfo.cs
+C:\Users\jschlickmanndamascen\Desktop\C# and .NET\Code\Chapter01\WelcomeDotNetCore\obj\Debug\netcoreapp2.1\WelcomeDotNetCore.dll
+C:\Users\jschlickmanndamascen\Desktop\C# and .NET\Code\Chapter01\WelcomeDotNetCore\obj\Debug\netcoreapp2.1\WelcomeDotNetCore.pdb

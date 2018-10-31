@@ -1,0 +1,11 @@
+C:\Users\jschlickmanndamascen\Desktop\C# and .NET\Code\Chapter01\HelloCS\bin\Debug\netcoreapp2.1\HelloCS.deps.json
+C:\Users\jschlickmanndamascen\Desktop\C# and .NET\Code\Chapter01\HelloCS\bin\Debug\netcoreapp2.1\HelloCS.runtimeconfig.json
+C:\Users\jschlickmanndamascen\Desktop\C# and .NET\Code\Chapter01\HelloCS\bin\Debug\netcoreapp2.1\HelloCS.runtimeconfig.dev.json
+C:\Users\jschlickmanndamascen\Desktop\C# and .NET\Code\Chapter01\HelloCS\bin\Debug\netcoreapp2.1\HelloCS.dll
+C:\Users\jschlickmanndamascen\Desktop\C# and .NET\Code\Chapter01\HelloCS\bin\Debug\netcoreapp2.1\HelloCS.pdb
+C:\Users\jschlickmanndamascen\Desktop\C# and .NET\Code\Chapter01\HelloCS\obj\Debug\netcoreapp2.1\HelloCS.csprojAssemblyReference.cache
+C:\Users\jschlickmanndamascen\Desktop\C# and .NET\Code\Chapter01\HelloCS\obj\Debug\netcoreapp2.1\HelloCS.csproj.CoreCompileInputs.cache
+C:\Users\jschlickmanndamascen\Desktop\C# and .NET\Code\Chapter01\HelloCS\obj\Debug\netcoreapp2.1\HelloCS.AssemblyInfoInputs.cache
+C:\Users\jschlickmanndamascen\Desktop\C# and .NET\Code\Chapter01\HelloCS\obj\Debug\netcoreapp2.1\HelloCS.AssemblyInfo.cs
+C:\Users\jschlickmanndamascen\Desktop\C# and .NET\Code\Chapter01\HelloCS\obj\Debug\netcoreapp2.1\HelloCS.dll
+C:\Users\jschlickmanndamascen\Desktop\C# and .NET\Code\Chapter01\HelloCS\obj\Debug\netcoreapp2.1\HelloCS.pdb

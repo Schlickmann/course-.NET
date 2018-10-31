@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WelcomeDotNetCore", "WelcomeDotNetCore\WelcomeDotNetCore.csproj", "{4BCBA773-3BAC-4E16-9549-0D2E6A6CB02D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloCS", "HelloCS\HelloCS.csproj", "{616D0430-6372-46A5-B1F3-72B23836E30D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BCBA773-3BAC-4E16-9549-0D2E6A6CB02D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BCBA773-3BAC-4E16-9549-0D2E6A6CB02D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BCBA773-3BAC-4E16-9549-0D2E6A6CB02D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BCBA773-3BAC-4E16-9549-0D2E6A6CB02D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{616D0430-6372-46A5-B1F3-72B23836E30D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{616D0430-6372-46A5-B1F3-72B23836E30D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{616D0430-6372-46A5-B1F3-72B23836E30D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{616D0430-6372-46A5-B1F3-72B23836E30D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C3BC16B-4BAF-4106-A59C-49DF3CE6738D}
+	EndGlobalSection
+EndGlobal
