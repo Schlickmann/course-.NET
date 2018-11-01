@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jschlickmanndamascen\\Desktop\\C# and .NET\\Code\\Chapter01\\WelcomeDotNetCore\\WelcomeDotNetCore.csproj",
+      "projectUniqueName": "\\\\vch.ca\\home$\\HomeDir01\\jschlickmanndamascen\\Profile\\Desktop\\C# and .NET course\\Code\\Chapter01\\WelcomeDotNetCore\\WelcomeDotNetCore.csproj",
       "projectName": "WelcomeDotNetCore",
-      "projectPath": "C:\\Users\\jschlickmanndamascen\\Desktop\\C# and .NET\\Code\\Chapter01\\WelcomeDotNetCore\\WelcomeDotNetCore.csproj",
+      "projectPath": "\\\\vch.ca\\home$\\HomeDir01\\jschlickmanndamascen\\Profile\\Desktop\\C# and .NET course\\Code\\Chapter01\\WelcomeDotNetCore\\WelcomeDotNetCore.csproj",
       "packagesPath": "C:\\Users\\jschlickmanndamascen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jschlickmanndamascen\\Desktop\\C# and .NET\\Code\\Chapter01\\WelcomeDotNetCore\\obj\\",
+      "outputPath": "\\\\vch.ca\\home$\\HomeDir01\\jschlickmanndamascen\\Profile\\Desktop\\C# and .NET course\\Code\\Chapter01\\WelcomeDotNetCore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

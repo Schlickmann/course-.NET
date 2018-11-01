@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "\\\\vch.ca\\home$\\HomeDir01\\jschlickmanndamascen\\Profile\\Desktop\\C# and .NET course\\Code\\Chapter04\\CalculatorLib\\CalculatorLib\\CalculatorLib.csproj",
+  "TargetFramework": "netstandard2.0",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jschlickmanndamascen\\Desktop\\C# and .NET\\Code\\Chapter01\\HelloCS\\HelloCS.csproj",
+      "projectUniqueName": "\\\\vch.ca\\home$\\HomeDir01\\jschlickmanndamascen\\Profile\\Desktop\\C# and .NET course\\Code\\Chapter01\\HelloCS\\HelloCS.csproj",
       "projectName": "HelloCS",
-      "projectPath": "C:\\Users\\jschlickmanndamascen\\Desktop\\C# and .NET\\Code\\Chapter01\\HelloCS\\HelloCS.csproj",
+      "projectPath": "\\\\vch.ca\\home$\\HomeDir01\\jschlickmanndamascen\\Profile\\Desktop\\C# and .NET course\\Code\\Chapter01\\HelloCS\\HelloCS.csproj",
       "packagesPath": "C:\\Users\\jschlickmanndamascen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jschlickmanndamascen\\Desktop\\C# and .NET\\Code\\Chapter01\\HelloCS\\obj\\",
+      "outputPath": "\\\\vch.ca\\home$\\HomeDir01\\jschlickmanndamascen\\Profile\\Desktop\\C# and .NET course\\Code\\Chapter01\\HelloCS\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

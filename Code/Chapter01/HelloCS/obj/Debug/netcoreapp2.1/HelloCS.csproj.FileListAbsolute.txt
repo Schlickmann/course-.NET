@@ -9,3 +9,14 @@ C:\Users\jschlickmanndamascen\Desktop\C# and .NET\Code\Chapter01\HelloCS\obj\Deb
 C:\Users\jschlickmanndamascen\Desktop\C# and .NET\Code\Chapter01\HelloCS\obj\Debug\netcoreapp2.1\HelloCS.AssemblyInfo.cs
 C:\Users\jschlickmanndamascen\Desktop\C# and .NET\Code\Chapter01\HelloCS\obj\Debug\netcoreapp2.1\HelloCS.dll
 C:\Users\jschlickmanndamascen\Desktop\C# and .NET\Code\Chapter01\HelloCS\obj\Debug\netcoreapp2.1\HelloCS.pdb
+\\vch.ca\home$\HomeDir01\jschlickmanndamascen\Profile\Desktop\C# and .NET course\Code\Chapter01\HelloCS\bin\Debug\netcoreapp2.1\HelloCS.deps.json
+\\vch.ca\home$\HomeDir01\jschlickmanndamascen\Profile\Desktop\C# and .NET course\Code\Chapter01\HelloCS\bin\Debug\netcoreapp2.1\HelloCS.runtimeconfig.json
+\\vch.ca\home$\HomeDir01\jschlickmanndamascen\Profile\Desktop\C# and .NET course\Code\Chapter01\HelloCS\bin\Debug\netcoreapp2.1\HelloCS.runtimeconfig.dev.json
+\\vch.ca\home$\HomeDir01\jschlickmanndamascen\Profile\Desktop\C# and .NET course\Code\Chapter01\HelloCS\bin\Debug\netcoreapp2.1\HelloCS.dll
+\\vch.ca\home$\HomeDir01\jschlickmanndamascen\Profile\Desktop\C# and .NET course\Code\Chapter01\HelloCS\bin\Debug\netcoreapp2.1\HelloCS.pdb
+\\vch.ca\home$\HomeDir01\jschlickmanndamascen\Profile\Desktop\C# and .NET course\Code\Chapter01\HelloCS\obj\Debug\netcoreapp2.1\HelloCS.csprojAssemblyReference.cache
+\\vch.ca\home$\HomeDir01\jschlickmanndamascen\Profile\Desktop\C# and .NET course\Code\Chapter01\HelloCS\obj\Debug\netcoreapp2.1\HelloCS.csproj.CoreCompileInputs.cache
+\\vch.ca\home$\HomeDir01\jschlickmanndamascen\Profile\Desktop\C# and .NET course\Code\Chapter01\HelloCS\obj\Debug\netcoreapp2.1\HelloCS.AssemblyInfoInputs.cache
+\\vch.ca\home$\HomeDir01\jschlickmanndamascen\Profile\Desktop\C# and .NET course\Code\Chapter01\HelloCS\obj\Debug\netcoreapp2.1\HelloCS.AssemblyInfo.cs
+\\vch.ca\home$\HomeDir01\jschlickmanndamascen\Profile\Desktop\C# and .NET course\Code\Chapter01\HelloCS\obj\Debug\netcoreapp2.1\HelloCS.dll
+\\vch.ca\home$\HomeDir01\jschlickmanndamascen\Profile\Desktop\C# and .NET course\Code\Chapter01\HelloCS\obj\Debug\netcoreapp2.1\HelloCS.pdb
