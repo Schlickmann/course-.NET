@@ -8,3 +8,4 @@
 \\vch.ca\home$\HomeDir01\jschlickmanndamascen\Profile\Desktop\C# and .NET course\Code\Chapter03\SelectionStatements\obj\Debug\netcoreapp2.1\SelectionStatements.AssemblyInfo.cs
 \\vch.ca\home$\HomeDir01\jschlickmanndamascen\Profile\Desktop\C# and .NET course\Code\Chapter03\SelectionStatements\obj\Debug\netcoreapp2.1\SelectionStatements.dll
 \\vch.ca\home$\HomeDir01\jschlickmanndamascen\Profile\Desktop\C# and .NET course\Code\Chapter03\SelectionStatements\obj\Debug\netcoreapp2.1\SelectionStatements.pdb
+\\vch.ca\home$\HomeDir01\jschlickmanndamascen\Profile\Desktop\C# and .NET course\Code\Chapter03\SelectionStatements\obj\Debug\netcoreapp2.1\SelectionStatements.csprojAssemblyReference.cache

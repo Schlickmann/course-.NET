@@ -207,6 +207,16 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
+      },
+      "PacktLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/PacktLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PacktLibrary.dll": {}
+        }
       }
     }
   },
@@ -673,11 +683,17 @@
         "netstandard.library.2.0.3.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
+    },
+    "PacktLibrary/1.0.0": {
+      "type": "project",
+      "path": "../PacktLibrary/PacktLibrary.csproj",
+      "msbuildProject": "../PacktLibrary/PacktLibrary.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
-      "Microsoft.NETCore.App >= 2.1.0"
+      "Microsoft.NETCore.App >= 2.1.0",
+      "PacktLibrary >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -687,11 +703,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "\\\\vch.ca\\home$\\HomeDir01\\jschlickmanndamascen\\Profile\\Desktop\\C# and .NET course\\Code\\Chapter01\\HelloCS\\HelloCS.csproj",
-      "projectName": "HelloCS",
-      "projectPath": "\\\\vch.ca\\home$\\HomeDir01\\jschlickmanndamascen\\Profile\\Desktop\\C# and .NET course\\Code\\Chapter01\\HelloCS\\HelloCS.csproj",
+      "projectUniqueName": "C:\\Users\\jschlickmanndamascen\\Desktop\\C# and .NET course\\Code\\Chapter05\\PeopleApp\\PeopleApp.csproj",
+      "projectName": "PeopleApp",
+      "projectPath": "C:\\Users\\jschlickmanndamascen\\Desktop\\C# and .NET course\\Code\\Chapter05\\PeopleApp\\PeopleApp.csproj",
       "packagesPath": "C:\\Users\\jschlickmanndamascen\\.nuget\\packages\\",
-      "outputPath": "\\\\vch.ca\\home$\\HomeDir01\\jschlickmanndamascen\\Profile\\Desktop\\C# and .NET course\\Code\\Chapter01\\HelloCS\\obj\\",
+      "outputPath": "C:\\Users\\jschlickmanndamascen\\Desktop\\C# and .NET course\\Code\\Chapter05\\PeopleApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -709,7 +725,11 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\jschlickmanndamascen\\Desktop\\C# and .NET course\\Code\\Chapter05\\PacktLibrary\\PacktLibrary.csproj": {
+              "projectPath": "C:\\Users\\jschlickmanndamascen\\Desktop\\C# and .NET course\\Code\\Chapter05\\PacktLibrary\\PacktLibrary.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

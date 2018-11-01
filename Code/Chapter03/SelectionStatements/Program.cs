@@ -85,6 +85,20 @@ namespace SelectionStatements
             double c = 9.8;
             int d = (int)c;
             WriteLine(d); // d is 9 losing the .8 part
+
+
+            WriteLine("********Parsing from strings to numbers or dates and times**********");
+            Write("How many eggs are there? ");
+            int count;
+            string input = Console.ReadLine();
+            if (int.TryParse(input, out count))
+            {
+                WriteLine($"There are {count} eggs.");
+            }
+            else
+            {
+                WriteLine("I could not parse the input.");
+            }
         }
     }
 }
